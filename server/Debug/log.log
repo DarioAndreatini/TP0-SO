@@ -1,0 +1,36 @@
+[INFO] 18:34:50:625 Servidor/(4776:4776): Servidor listo para recibir al cliente
+[INFO] 18:36:55:436 Servidor/(4776:4776): Se conecto un cliente!
+[INFO] 18:36:55:436 Servidor/(4776:4776): Me llego el mensaje valor
+[ERROR] 18:36:55:436 Servidor/(4776:4776): el cliente se desconecto. Terminando servidor
+[INFO] 18:38:00:915 Servidor/(4809:4809): Servidor listo para recibir al cliente
+[INFO] 18:38:19:771 Servidor/(4809:4809): Se conecto un cliente!
+[INFO] 18:38:19:771 Servidor/(4809:4809): Me llego el mensaje valor
+[ERROR] 18:38:19:771 Servidor/(4809:4809): el cliente se desconecto. Terminando servidor
+[INFO] 18:45:52:198 Servidor/(4855:4855): Servidor listo para recibir al cliente
+[INFO] 18:46:08:607 Servidor/(4855:4855): Se conecto un cliente!
+[INFO] 18:46:08:608 Servidor/(4855:4855): Me llego el mensaje Hola
+[ERROR] 18:46:08:608 Servidor/(4855:4855): el cliente se desconecto. Terminando servidor
+[INFO] 18:59:00:688 Servidor/(4890:4890): Servidor listo para recibir al cliente
+[INFO] 18:59:09:509 Servidor/(4890:4890): Se conecto un cliente!
+[INFO] 18:59:09:509 Servidor/(4890:4890): Me llego el mensaje Hola
+[ERROR] 18:59:09:509 Servidor/(4890:4890): el cliente se desconecto. Terminando servidor
+[INFO] 19:09:29:948 Servidor/(4927:4927): Servidor listo para recibir al cliente
+[INFO] 19:11:11:626 Servidor/(4927:4927): Se conecto un cliente!
+[INFO] 19:11:11:626 Servidor/(4927:4927): Me llego el mensaje Hola
+[ERROR] 19:11:11:626 Servidor/(4927:4927): el cliente se desconecto. Terminando servidor
+[INFO] 19:12:02:556 Servidor/(4948:4948): Servidor listo para recibir al cliente
+[INFO] 19:12:22:927 Servidor/(4948:4948): Se conecto un cliente!
+[INFO] 19:12:22:927 Servidor/(4948:4948): Me llego el mensaje valor
+[ERROR] 19:12:22:927 Servidor/(4948:4948): el cliente se desconecto. Terminando servidor
+[INFO] 19:43:26:117 Servidor/(5379:5379): Servidor listo para recibir al cliente
+[INFO] 19:43:37:336 Servidor/(5379:5379): Se conecto un cliente!
+[INFO] 19:43:37:337 Servidor/(5379:5379): Me llego el mensaje valor
+[ERROR] 19:43:37:337 Servidor/(5379:5379): el cliente se desconecto. Terminando servidor
+[INFO] 19:44:20:246 Servidor/(5506:5506): Servidor listo para recibir al cliente
+[INFO] 19:44:26:446 Servidor/(5506:5506): Se conecto un cliente!
+[INFO] 19:44:26:446 Servidor/(5506:5506): Me llego el mensaje valor
+[ERROR] 19:44:26:446 Servidor/(5506:5506): el cliente se desconecto. Terminando servidor
+[INFO] 19:49:02:687 Servidor/(5551:5551): Servidor listo para recibir al cliente
+[INFO] 19:49:10:724 Servidor/(5551:5551): Se conecto un cliente!
+[INFO] 19:49:10:724 Servidor/(5551:5551): Me llego el mensaje valor
+[ERROR] 19:49:10:724 Servidor/(5551:5551): el cliente se desconecto. Terminando servidor
